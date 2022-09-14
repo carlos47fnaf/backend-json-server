@@ -1,11 +1,61 @@
 {
-    "categories": [
-        {"id": 1, "description": "Categoria 1"},
-        {"id": 2, "description": "Categoria 2"}
-    ],
-    "publishers": [],
-    "books": [
-        {"id": 1, "title": "Livro 1", "categoryId": 1, "publisherId": 1},
-        {"id": 1, "title": "Livro 2", "categoryId": 2, "publisherId": 1}
-    ]
+  "categories": [
+    {
+      "description": "jgfg",
+      "id": 1
+    }
+  ],
+  "editors": [
+    {
+      "editors": "fgfgj",
+      "site": "jfggjgfj",
+      "id": 1
+    }
+  ],
+  "books": [],
+  "authors": [
+    {
+      "authors": "gvguv",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "authors": "qd",
+      "id": 3
+    },
+    {
+      "authors": "sddg",
+      "id": 4
+    },
+    {
+      "authors": "sggsfdfsg",
+      "id": 5
+    },
+    {
+      "authors": "rtehte",
+      "id": 6
+    },
+    {
+      "authors": "batata",
+      "id": 7
+    },
+    {
+      "authors": "fgsb",
+      "id": 8
+    },
+    {
+      "authors": "gjg",
+      "id": 9
+    },
+    {
+      "authors": "gfjfgj",
+      "id": 10
+    },
+    {
+      "authors": "gh",
+      "id": 11
+    }
+  ]
 }
